@@ -9,8 +9,8 @@ div {
     width: auto;
     height: auto;
     border: 8px solid #;
-    border-radius: 13px;
-    box-shadow: 8px 14px 14px 4px #00FFFF;
+    border-radius: 10px;
+    box-shadow: 8px 12px 12px 4px #00FFFF;
     cursor: pointer;
     margin: 10px;
     transition: 500ms;
