@@ -10,7 +10,7 @@ div {
     height: auto;
     border: 8px solid #;
     border-radius: 13px;
-    box-shadow: 8px 14px 14px 4px #00000042;
+    box-shadow: 8px 14px 14px 4px #FFC0CB;
     cursor: pointer;
     margin: 10px;
     transition: 500ms;
